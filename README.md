@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on application development
 - 🌱 I’m currently learning machine learning
-- 🤔 I’m looking for help with machine learning
+- 🤔 I’m looking for help with swift
 - 💬 Ask me about web-development
 
 # 💻 Tech Stack:
