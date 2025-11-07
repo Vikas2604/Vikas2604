@@ -8,15 +8,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Vikas2604&icon=5&color=0)](https://visitcount.itsvg.in)
 
-
-# 📊 GitHub Stats
-
-<!-- GitHub contribution stats -->
-![Vikas2604's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikas2604&theme=dark&hide_border=false&show_icons=true)
-
-<!-- GitHub streak stats (optional but more reliable with cache) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vikas2604&theme=dark&hide_border=false&cacheSeconds=3600)
-
-<!-- Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas2604&theme=dark&hide_border=false&include_all_commits=false&layout=compact)
-
